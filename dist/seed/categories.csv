@@ -1,0 +1,358 @@
+category_id,parent_id,name,slug,product_type
+1,,Electronics,electronics,
+2,,Everything Else,everything-else,
+3,,Fashion,fashion,
+4,,Furniture,furniture,
+5,,Grocery,grocery,
+6,,Health & Beauty,health-beauty,
+7,,Home & Decor,home-decor,
+8,,Jewelry & Watches,jewelry-watches,
+9,,Kitchen & Dining,kitchen-dining,
+10,,Office & School,office-school,
+11,,Pet Supplies,pet-supplies,
+12,,Phone & Device Accessories,phone-device-accessories,
+13,,Sports & Outdoors,sports-outdoors,
+14,,"Tools, Auto & Home Improvement",tools-auto-home-improvement,
+15,,Toys & Games,toys-games,
+16,1,Battery,battery,BATTERY
+17,1,Camera Bags And Cases,camera-bags-and-cases,CAMERA_BAGS_AND_CASES
+18,1,Camera Other Accessories,camera-other-accessories,CAMERA_OTHER_ACCESSORIES
+19,1,Camera Support,camera-support,CAMERA_SUPPORT
+20,1,Camera Tripod,camera-tripod,CAMERA_TRIPOD
+21,1,Ce Accessory,ce-accessory,CE_ACCESSORY
+22,1,Ce Carrying Case Or Bag,ce-carrying-case-or-bag,CE_CARRYING_CASE_OR_BAG
+23,1,Charging Adapter,charging-adapter,CHARGING_ADAPTER
+24,1,Computer Add On,computer-add-on,COMPUTER_ADD_ON
+25,1,Computer Component,computer-component,COMPUTER_COMPONENT
+26,1,Computer Drive Or Storage,computer-drive-or-storage,COMPUTER_DRIVE_OR_STORAGE
+27,1,Computer Input Device,computer-input-device,COMPUTER_INPUT_DEVICE
+28,1,Electric Fan,electric-fan,ELECTRIC_FAN
+29,1,Electronic Adapter,electronic-adapter,ELECTRONIC_ADAPTER
+30,1,Electronic Cable,electronic-cable,ELECTRONIC_CABLE
+31,1,Electronic Device Docking Station,electronic-device-docking-station,ELECTRONIC_DEVICE_DOCKING_STATION
+32,1,Flash Drive,flash-drive,FLASH_DRIVE
+33,1,Flash Memory,flash-memory,FLASH_MEMORY
+34,1,Flat Screen Display Mount,flat-screen-display-mount,FLAT_SCREEN_DISPLAY_MOUNT
+35,1,Input Mouse,input-mouse,INPUT_MOUSE
+36,1,Keyboards,keyboards,KEYBOARDS
+37,1,Memory Reader,memory-reader,MEMORY_READER
+38,1,Mouse Pad,mouse-pad,MOUSE_PAD
+39,1,Multiport Hub,multiport-hub,MULTIPORT_HUB
+40,1,Personal Computer,personal-computer,PERSONAL_COMPUTER
+41,1,Portable Audio,portable-audio,PORTABLE_AUDIO
+42,1,Portable Electronic Device Cover,portable-electronic-device-cover,PORTABLE_ELECTRONIC_DEVICE_COVER
+43,1,Portable Electronic Device Mount,portable-electronic-device-mount,PORTABLE_ELECTRONIC_DEVICE_MOUNT
+44,1,Portable Electronic Device Stand,portable-electronic-device-stand,PORTABLE_ELECTRONIC_DEVICE_STAND
+45,1,Power Strip,power-strip,POWER_STRIP
+46,1,Radio,radio,RADIO
+47,1,Security Electronics,security-electronics,SECURITY_ELECTRONICS
+48,1,Sound And Recording Equipment,sound-and-recording-equipment,SOUND_AND_RECORDING_EQUIPMENT
+49,1,Speakers,speakers,SPEAKERS
+50,1,Television,television,TELEVISION
+51,1,Thermoplastic Filament,thermoplastic-filament,THERMOPLASTIC_FILAMENT
+52,1,Two Way Radio,two-way-radio,TWO_WAY_RADIO
+53,2,Biss,biss,BISS
+54,2,Instrument Parts And Accessories,instrument-parts-and-accessories,INSTRUMENT_PARTS_AND_ACCESSORIES
+55,2,Outbuilding,outbuilding,OUTBUILDING
+56,2,Percussion Instruments,percussion-instruments,PERCUSSION_INSTRUMENTS
+57,3,Accessory,accessory,ACCESSORY
+58,3,Accessory Or Part Or Supply,accessory-or-part-or-supply,ACCESSORY_OR_PART_OR_SUPPLY
+59,3,Backpack,backpack,BACKPACK
+60,3,Bag,bag,BAG
+61,3,Boot,boot,BOOT
+62,3,Carrying Case Or Bag,carrying-case-or-bag,CARRYING_CASE_OR_BAG
+63,3,Childrens Costume,childrens-costume,CHILDRENS_COSTUME
+64,3,Earmuff,earmuff,EARMUFF
+65,3,Eyewear,eyewear,EYEWEAR
+66,3,Handbag,handbag,HANDBAG
+67,3,Hat,hat,HAT
+68,3,Leotard,leotard,LEOTARD
+69,3,Luggage,luggage,LUGGAGE
+70,3,Overalls,overalls,OVERALLS
+71,3,Sandal,sandal,SANDAL
+72,3,Shoes,shoes,SHOES
+73,3,Suitcase,suitcase,SUITCASE
+74,3,Sunglasses,sunglasses,SUNGLASSES
+75,3,Tote Bag,tote-bag,TOTE_BAG
+76,3,Umbrella,umbrella,UMBRELLA
+77,3,Wallet,wallet,WALLET
+78,4,Bean Bag Chair,bean-bag-chair,BEAN_BAG_CHAIR
+79,4,Bed,bed,BED
+80,4,Bed Frame,bed-frame,BED_FRAME
+81,4,Bench,bench,BENCH
+82,4,Cabinet,cabinet,CABINET
+83,4,Chair,chair,CHAIR
+84,4,Desk,desk,DESK
+85,4,Dresser,dresser,DRESSER
+86,4,Furniture,furniture-other,FURNITURE
+87,4,Furniture Cover,furniture-cover,FURNITURE_COVER
+88,4,Furniture Liner,furniture-liner,FURNITURE_LINER
+89,4,Headboard,headboard,HEADBOARD
+90,4,Home Furniture And Decor,home-furniture-and-decor,HOME_FURNITURE_AND_DECOR
+91,4,Ottoman,ottoman,OTTOMAN
+92,4,Shelf,shelf,SHELF
+93,4,Sofa,sofa,SOFA
+94,4,Stool Seating,stool-seating,STOOL_SEATING
+95,4,Table,table,TABLE
+96,5,Bread,bread,BREAD
+97,5,Breakfast Cereal,breakfast-cereal,BREAKFAST_CEREAL
+98,5,Cake,cake,CAKE
+99,5,Coffee,coffee,COFFEE
+100,5,Cookie,cookie,COOKIE
+101,5,Cracker,cracker,CRACKER
+102,5,Dairy Based Butter,dairy-based-butter,DAIRY_BASED_BUTTER
+103,5,Dairy Based Cheese,dairy-based-cheese,DAIRY_BASED_CHEESE
+104,5,Dairy Based Cream,dairy-based-cream,DAIRY_BASED_CREAM
+105,5,Dairy Based Drink,dairy-based-drink,DAIRY_BASED_DRINK
+106,5,Dairy Based Ice Cream,dairy-based-ice-cream,DAIRY_BASED_ICE_CREAM
+107,5,Drink Flavored,drink-flavored,DRINK_FLAVORED
+108,5,Edible Oil Vegetable,edible-oil-vegetable,EDIBLE_OIL_VEGETABLE
+109,5,Fish,fish,FISH
+110,5,Flour,flour,FLOUR
+111,5,Fruit,fruit,FRUIT
+112,5,Fruit Snack,fruit-snack,FRUIT_SNACK
+113,5,Grocery,grocery-other,GROCERY
+114,5,Herb,herb,HERB
+115,5,Honey,honey,HONEY
+116,5,Juice And Juice Drink,juice-and-juice-drink,JUICE_AND_JUICE_DRINK
+117,5,Legume,legume,LEGUME
+118,5,Milk Substitute,milk-substitute,MILK_SUBSTITUTE
+119,5,Noodle,noodle,NOODLE
+120,5,Nut Butter,nut-butter,NUT_BUTTER
+121,5,Nuts,nuts,NUTS
+122,5,Packaged Soup And Stew,packaged-soup-and-stew,PACKAGED_SOUP_AND_STEW
+123,5,Pantry,pantry,PANTRY
+124,5,Popcorn,popcorn,POPCORN
+125,5,Poultry,poultry,POULTRY
+126,5,Pretzel,pretzel,PRETZEL
+127,5,Rice Mix,rice-mix,RICE_MIX
+128,5,Salad Dressing,salad-dressing,SALAD_DRESSING
+129,5,Sauce,sauce,SAUCE
+130,5,Snack Chip And Crisp,snack-chip-and-crisp,SNACK_CHIP_AND_CRISP
+131,5,Snack Food Bar,snack-food-bar,SNACK_FOOD_BAR
+132,5,Snack Mix,snack-mix,SNACK_MIX
+133,5,Sugar,sugar,SUGAR
+134,5,Tea,tea,TEA
+135,5,Vegetable,vegetable,VEGETABLE
+136,5,Vinegar,vinegar,VINEGAR
+137,5,Water,water,WATER
+138,5,Wine,wine,WINE
+139,6,Abis Beauty,abis-beauty,ABIS_BEAUTY
+140,6,Abis Drugstore,abis-drugstore,ABIS_DRUGSTORE
+141,6,Astringent Substance,astringent-substance,ASTRINGENT_SUBSTANCE
+142,6,Baby Product,baby-product,BABY_PRODUCT
+143,6,Bathwater Additive,bathwater-additive,BATHWATER_ADDITIVE
+144,6,Beauty,beauty,BEAUTY
+145,6,Body Deodorant,body-deodorant,BODY_DEODORANT
+146,6,Body Positioner,body-positioner,BODY_POSITIONER
+147,6,Conditioner,conditioner,CONDITIONER
+148,6,Cosmetic Brush,cosmetic-brush,COSMETIC_BRUSH
+149,6,Cosmetic Case,cosmetic-case,COSMETIC_CASE
+150,6,Earplug,earplug,EARPLUG
+151,6,Essential Oil,essential-oil,ESSENTIAL_OIL
+152,6,Facial Tissue,facial-tissue,FACIAL_TISSUE
+153,6,Hair Brush,hair-brush,HAIR_BRUSH
+154,6,Hair Comb,hair-comb,HAIR_COMB
+155,6,Hair Styling Agent,hair-styling-agent,HAIR_STYLING_AGENT
+156,6,Health Personal Care,health-personal-care,HEALTH_PERSONAL_CARE
+157,6,Herbal Supplement,herbal-supplement,HERBAL_SUPPLEMENT
+158,6,Lip Color,lip-color,LIP_COLOR
+159,6,Medication,medication,MEDICATION
+160,6,Mineral Supplement,mineral-supplement,MINERAL_SUPPLEMENT
+161,6,Mouthwash,mouthwash,MOUTHWASH
+162,6,Nail Polish,nail-polish,NAIL_POLISH
+163,6,Nutritional Supplement,nutritional-supplement,NUTRITIONAL_SUPPLEMENT
+164,6,Orthopedic Brace,orthopedic-brace,ORTHOPEDIC_BRACE
+165,6,Personal Care Appliance,personal-care-appliance,PERSONAL_CARE_APPLIANCE
+166,6,Personal Pill Dispenser,personal-pill-dispenser,PERSONAL_PILL_DISPENSER
+167,6,Protein Supplement Powder,protein-supplement-powder,PROTEIN_SUPPLEMENT_POWDER
+168,6,Shampoo,shampoo,SHAMPOO
+169,6,Skin Cleaning Agent,skin-cleaning-agent,SKIN_CLEANING_AGENT
+170,6,Skin Cleaning Wipe,skin-cleaning-wipe,SKIN_CLEANING_WIPE
+171,6,Skin Moisturizer,skin-moisturizer,SKIN_MOISTURIZER
+172,6,Sunscreen,sunscreen,SUNSCREEN
+173,6,Tooth Cleaning Agent,tooth-cleaning-agent,TOOTH_CLEANING_AGENT
+174,6,Vitamin,vitamin,VITAMIN
+175,6,Wound Dressing,wound-dressing,WOUND_DRESSING
+176,7,Abis Lawn And Garden,abis-lawn-and-garden,ABIS_LAWN_AND_GARDEN
+177,7,Air Conditioner,air-conditioner,AIR_CONDITIONER
+178,7,Air Purifier,air-purifier,AIR_PURIFIER
+179,7,Area Deodorizer,area-deodorizer,AREA_DEODORIZER
+180,7,Basket,basket,BASKET
+181,7,Bottle Rack,bottle-rack,BOTTLE_RACK
+182,7,Caddy,caddy,CADDY
+183,7,Candle,candle,CANDLE
+184,7,Cleaning Brush,cleaning-brush,CLEANING_BRUSH
+185,7,Clock,clock,CLOCK
+186,7,Clothes Hanger,clothes-hanger,CLOTHES_HANGER
+187,7,Clothes Rack,clothes-rack,CLOTHES_RACK
+188,7,Countertop Griddle Appliance,countertop-griddle-appliance,COUNTERTOP_GRIDDLE_APPLIANCE
+189,7,Curtain,curtain,CURTAIN
+190,7,Dishwasher Detergent,dishwasher-detergent,DISHWASHER_DETERGENT
+191,7,Figurine,figurine,FIGURINE
+192,7,Flat Sheet,flat-sheet,FLAT_SHEET
+193,7,Home,home,HOME
+194,7,Home Bed And Bath,home-bed-and-bath,HOME_BED_AND_BATH
+195,7,Home Lighting Accessory,home-lighting-accessory,HOME_LIGHTING_ACCESSORY
+196,7,Home Lighting And Lamps,home-lighting-and-lamps,HOME_LIGHTING_AND_LAMPS
+197,7,Home Mirror,home-mirror,HOME_MIRROR
+198,7,Humidifier,humidifier,HUMIDIFIER
+199,7,Incense,incense,INCENSE
+200,7,Lamp,lamp,LAMP
+201,7,Laundry Detergent,laundry-detergent,LAUNDRY_DETERGENT
+202,7,Laundry Hamper,laundry-hamper,LAUNDRY_HAMPER
+203,7,Light Bulb,light-bulb,LIGHT_BULB
+204,7,Light Fixture,light-fixture,LIGHT_FIXTURE
+205,7,Light Source,light-source,LIGHT_SOURCE
+206,7,Major Home Appliances,major-home-appliances,MAJOR_HOME_APPLIANCES
+207,7,Outdoor Living,outdoor-living,OUTDOOR_LIVING
+208,7,Picture Frame,picture-frame,PICTURE_FRAME
+209,7,Pillow,pillow,PILLOW
+210,7,Planter,planter,PLANTER
+211,7,Pot Holder,pot-holder,POT_HOLDER
+212,7,Pump Dispenser,pump-dispenser,PUMP_DISPENSER
+213,7,Rug,rug,RUG
+214,7,Showerhead,showerhead,SHOWERHEAD
+215,7,Storage Bag,storage-bag,STORAGE_BAG
+216,7,Storage Box,storage-box,STORAGE_BOX
+217,7,Storage Hook,storage-hook,STORAGE_HOOK
+218,7,Storage Rack,storage-rack,STORAGE_RACK
+219,7,String Light,string-light,STRING_LIGHT
+220,7,Toilet Paper Holder,toilet-paper-holder,TOILET_PAPER_HOLDER
+221,7,Toothbrush Holder,toothbrush-holder,TOOTHBRUSH_HOLDER
+222,7,Towel Holder,towel-holder,TOWEL_HOLDER
+223,7,Trash Can,trash-can,TRASH_CAN
+224,7,Vase,vase,VASE
+225,7,Vine,vine,VINE
+226,7,Wall Art,wall-art,WALL_ART
+227,7,Washer Dryer Combination,washer-dryer-combination,WASHER_DRYER_COMBINATION
+228,7,Waste Bag,waste-bag,WASTE_BAG
+229,7,Window Shade,window-shade,WINDOW_SHADE
+230,8,Bracelet,bracelet,BRACELET
+231,8,Charm,charm,CHARM
+232,8,Earring,earring,EARRING
+233,8,Fashionearring,fashionearring,FASHIONEARRING
+234,8,Fashionnecklacebraceletanklet,fashionnecklacebraceletanklet,FASHIONNECKLACEBRACELETANKLET
+235,8,Fashionring,fashionring,FASHIONRING
+236,8,Fine Earrings,fineearring,FINEEARRING
+237,8,Fine Jewelry,fineother,FINEOTHER
+238,8,"Fine Necklaces, Bracelets & Anklets",finenecklacebraceletanklet,FINENECKLACEBRACELETANKLET
+239,8,Fine Rings,finering,FINERING
+240,8,Jewelry Set,jewelry-set,JEWELRY_SET
+241,8,Jewelry Storage,jewelry-storage,JEWELRY_STORAGE
+242,8,Necklace,necklace,NECKLACE
+243,8,Ring,ring,RING
+244,8,Watch,watch,WATCH
+245,9,Abis Kitchen,abis-kitchen,ABIS_KITCHEN
+246,9,Baking Pan,baking-pan,BAKING_PAN
+247,9,Bottle,bottle,BOTTLE
+248,9,Can Opener,can-opener,CAN_OPENER
+249,9,Coffee Maker,coffee-maker,COFFEE_MAKER
+250,9,Countertop Oven,countertop-oven,COUNTERTOP_OVEN
+251,9,Dishware Bowl,dishware-bowl,DISHWARE_BOWL
+252,9,Dishware Place Setting,dishware-place-setting,DISHWARE_PLACE_SETTING
+253,9,Dishware Plate,dishware-plate,DISHWARE_PLATE
+254,9,Drinking Cup,drinking-cup,DRINKING_CUP
+255,9,Dutch Ovens,dutch-ovens,DUTCH_OVENS
+256,9,Electric Water Boiler,electric-water-boiler,ELECTRIC_WATER_BOILER
+257,9,Flatware,flatware,FLATWARE
+258,9,Food Blender,food-blender,FOOD_BLENDER
+259,9,Food Preparation Mold,food-preparation-mold,FOOD_PREPARATION_MOLD
+260,9,Food Service Supply,food-service-supply,FOOD_SERVICE_SUPPLY
+261,9,Food Slicer,food-slicer,FOOD_SLICER
+262,9,Food Storage Bag,food-storage-bag,FOOD_STORAGE_BAG
+263,9,Jar,jar,JAR
+264,9,Juicer,juicer,JUICER
+265,9,Kitchen,kitchen,KITCHEN
+266,9,Kitchen Knife,kitchen-knife,KITCHEN_KNIFE
+267,9,Kitchen Tools,kitchen-tools,KITCHEN_TOOLS
+268,9,Meal Holder,meal-holder,MEAL_HOLDER
+269,9,Microwave Oven,microwave-oven,MICROWAVE_OVEN
+270,9,Placemat,placemat,PLACEMAT
+271,9,Pressure Cooker,pressure-cooker,PRESSURE_COOKER
+272,9,Saute Fry Pan,saute-fry-pan,SAUTE_FRY_PAN
+273,9,Utility Knife,utility-knife,UTILITY_KNIFE
+274,9,Water Purification Unit,water-purification-unit,WATER_PURIFICATION_UNIT
+275,10,Envelope,envelope,ENVELOPE
+276,10,File Folder,file-folder,FILE_FOLDER
+277,10,Ink Or Toner,ink-or-toner,INK_OR_TONER
+278,10,Lab Supply,lab-supply,LAB_SUPPLY
+279,10,Label,label,LABEL
+280,10,Marking Pen,marking-pen,MARKING_PEN
+281,10,Office Electronics,office-electronics,OFFICE_ELECTRONICS
+282,10,Office Products,office-products,OFFICE_PRODUCTS
+283,10,Paper Product,paper-product,PAPER_PRODUCT
+284,10,Pinboard,pinboard,PINBOARD
+285,10,Print Copy Paper,print-copy-paper,PRINT_COPY_PAPER
+286,10,Scissors,scissors,SCISSORS
+287,10,Self Stick Note,self-stick-note,SELF_STICK_NOTE
+288,10,Stapler,stapler,STAPLER
+289,10,Sticker Decal,sticker-decal,STICKER_DECAL
+290,10,Storage Binder,storage-binder,STORAGE_BINDER
+291,10,Teaching Equipment,teaching-equipment,TEACHING_EQUIPMENT
+292,10,Writing Board,writing-board,WRITING_BOARD
+293,10,Writing Instrument,writing-instrument,WRITING_INSTRUMENT
+294,11,Pet Pest Control,pet-pest-control,PET_PEST_CONTROL
+295,11,Pet Supplies,pet-supplies-other,PET_SUPPLIES
+296,11,Pet Toy,pet-toy,PET_TOY
+297,12,Cellular Phone,cellular-phone,CELLULAR_PHONE
+298,12,Cellular Phone Case,cellular-phone-case,CELLULAR_PHONE_CASE
+299,12,Headphones,headphones,HEADPHONES
+300,12,Microphone,microphone,MICROPHONE
+301,12,Phone,phone,PHONE
+302,12,Phone Accessory,phone-accessory,PHONE_ACCESSORY
+303,12,Screen Protector,screen-protector,SCREEN_PROTECTOR
+304,12,Wireless Accessory,wireless-accessory,WIRELESS_ACCESSORY
+305,13,Exercise Band,exercise-band,EXERCISE_BAND
+306,13,Exercise Mat,exercise-mat,EXERCISE_MAT
+307,13,Freestanding Shelter,freestanding-shelter,FREESTANDING_SHELTER
+308,13,Golf Club Bag,golf-club-bag,GOLF_CLUB_BAG
+309,13,Muscle Roller,muscle-roller,MUSCLE_ROLLER
+310,13,Outdoor Recreation Product,outdoor-recreation-product,OUTDOOR_RECREATION_PRODUCT
+311,13,Portable Stove,portable-stove,PORTABLE_STOVE
+312,13,Punching Bag,punching-bag,PUNCHING_BAG
+313,13,Recreation Ball,recreation-ball,RECREATION_BALL
+314,13,Sporting Goods,sporting-goods,SPORTING_GOODS
+315,13,Technical Sport Shoe,technical-sport-shoe,TECHNICAL_SPORT_SHOE
+316,13,Transport Rack,transport-rack,TRANSPORT_RACK
+317,13,Water Flotation Device,water-flotation-device,WATER_FLOTATION_DEVICE
+318,14,Agricultural Supplies,agricultural-supplies,AGRICULTURAL_SUPPLIES
+319,14,Air Pump,air-pump,AIR_PUMP
+320,14,Auto Accessory,auto-accessory,AUTO_ACCESSORY
+321,14,Auto Chemical,auto-chemical,AUTO_CHEMICAL
+322,14,Auto Oil,auto-oil,AUTO_OIL
+323,14,Auto Part,auto-part,AUTO_PART
+324,14,Broom,broom,BROOM
+325,14,Building Material,building-material,BUILDING_MATERIAL
+326,14,Cargo Strap,cargo-strap,CARGO_STRAP
+327,14,Cleaning Agent,cleaning-agent,CLEANING_AGENT
+328,14,Drill Bits,drill-bits,DRILL_BITS
+329,14,Electromechanical Gauge,electromechanical-gauge,ELECTROMECHANICAL_GAUGE
+330,14,Faucet,faucet,FAUCET
+331,14,Hardware,hardware,HARDWARE
+332,14,Hardware Handle,hardware-handle,HARDWARE_HANDLE
+333,14,Hardware Tubing,hardware-tubing,HARDWARE_TUBING
+334,14,Janitorial Supply,janitorial-supply,JANITORIAL_SUPPLY
+335,14,Lock,lock,LOCK
+336,14,Mechanical Components,mechanical-components,MECHANICAL_COMPONENTS
+337,14,Multitool,multitool,MULTITOOL
+338,14,Pliers,pliers,PLIERS
+339,14,Plumbing Fixture,plumbing-fixture,PLUMBING_FIXTURE
+340,14,Power Supplies Or Protection,power-supplies-or-protection,POWER_SUPPLIES_OR_PROTECTION
+341,14,Safe,safe,SAFE
+342,14,Safety Glasses,safety-glasses,SAFETY_GLASSES
+343,14,Safety Supply,safety-supply,SAFETY_SUPPLY
+344,14,Screwdriver,screwdriver,SCREWDRIVER
+345,14,Steering Wheel Cover,steering-wheel-cover,STEERING_WHEEL_COVER
+346,14,Tools,tools,TOOLS
+347,14,Utility Cart Wagon,utility-cart-wagon,UTILITY_CART_WAGON
+348,14,Vacuum Cleaner,vacuum-cleaner,VACUUM_CLEANER
+349,14,Vacuum Sealer Machine,vacuum-sealer-machine,VACUUM_SEALER_MACHINE
+350,14,Vehicle Interior Shade,vehicle-interior-shade,VEHICLE_INTERIOR_SHADE
+351,14,Wheel,wheel,WHEEL
+352,14,Wrench,wrench,WRENCH
+353,15,Puzzles,puzzles,PUZZLES
+354,15,Toy Building Block,toy-building-block,TOY_BUILDING_BLOCK
+355,15,Toy Figure,toy-figure,TOY_FIGURE
+356,15,Toy Slime,toy-slime,TOY_SLIME
+357,15,Toys And Games,toys-and-games,TOYS_AND_GAMES
